@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm David!
+👋 **Hi, I'm David!**
 
   Full-Stack Developer | University of Bath Graduate specialising in backend performance optimisations and system design.
-
-💻 About Me
+  
+---------------------------------
+💻 **About Me**
 
   I studied Computer Science at the University of Bath. I am a developer who loves diving into the "how" and "why" of backend systems, ensuring they are not just functional, but performant and scalable.
-
-🛠️ Technical Skills
+  
+---------------------------------
+🛠️ **Technical Skills**
 
   Languages / Python • Java • TypeScript • JavaScript • SQL 
 
@@ -40,14 +42,16 @@ Here are some ideas to get you started:
   Developer Tools / Git • Docker • VS Code • GitHub Copilot
 
   Testing Frameworks / Pytest • JUnit 5 • Jest • React Testing Library • Vitest • Supertest
-
-🎯 Currently...
+  
+-----------------------------------
+🎯 **Currently...**
 
   🌱 Learning: Nest.js
 
   📖 Reading: Clean Code by Robert C. Martin (Uncle Bob)
-
-🔗 Let's Connect!
+  
+------------------------------
+🔗 **Let's Connect!**
 
   LinkedIn: linkedin.com/in/david-morohunfola
 
