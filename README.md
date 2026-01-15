@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 ------------------------------
 🔗 **Let's Connect!**
 
-  LinkedIn: linkedin.com/in/david-morohunfola
+  [LinkedIn](linkedin.com/in/david-morohunfola)
 
   Email: davidmoroh@icloud.com
