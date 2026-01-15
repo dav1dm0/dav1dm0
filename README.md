@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---------------------------------
 💻 **About Me**
 
-  I studied Computer Science at the University of Bath. I am a developer who loves diving into the "how" and "why" of backend systems, ensuring they are not just functional, but performant and scalable.
+  I studied Computer Science at the University of Bath. I am a developer who loves diving into the "how" and "why" of backend systems, ensuring they are performant and scalable.
   
 ---------------------------------
 🛠️ **Technical Skills**
