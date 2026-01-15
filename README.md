@@ -33,7 +33,7 @@ Cloud and Hosting: AWS, Google Cloud, Vercel
 
 AI/ML/Data: Scikit-learn, Pytorch, Pandas, Numpy
 
-DevTools: VS Code, Copilot
+DevTools: Git, Docker, VS Code, Copilot
 
 Testing: Pytest, JUnit 5, Jest, React Testing Library, Vitest, Supertest
 
