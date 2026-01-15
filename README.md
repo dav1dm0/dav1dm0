@@ -15,31 +15,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm David!
-I studied Computer Science at the University of Bath.
-Full-stack developer with a focus on backend performance optimisations and system design.
+👋 Hi, I'm David!
 
-I'm experienced with:
+  Full-Stack Developer | University of Bath Graduate specialising in backend performance optimisations and system design.
 
-Languages: Python, Java, TypeScript/JavaScript, SQL
+💻 About Me
 
-Backend : Node.js, Express.js, Spring Boot
+  I studied Computer Science at the University of Bath. I am a developer who loves diving into the "how" and "why" of backend systems, ensuring they are not just functional, but performant and scalable.
 
-Frontend: React, Next.js, HTML/CSS
+🛠️ Technical Skills
 
-Databases: PostgreSQL, SQLite, Redis
+  Languages / Python • Java • TypeScript • JavaScript • SQL 
 
-Cloud and Hosting: AWS, Google Cloud, Vercel
+  Backend Frameworks & Environments / Node.js • Express.js • Spring Boot
 
-AI/ML/Data: Scikit-learn, Pytorch, Pandas, Numpy
+  Frontend Development / React • Next.js • HTML5 • CSS3
 
-DevTools: Git, Docker, VS Code, Copilot
+  Databases / PostgreSQL • SQLite • Redis
 
-Testing: Pytest, JUnit 5, Jest, React Testing Library, Vitest, Supertest
+  Cloud & Hosting / AWS • Google Cloud • Vercel
 
+  AI, ML & Data  / Scikit-learn • PyTorch • Pandas • NumPy
 
-I'm currently learning: Nest.js
+  Developer Tools / Git • Docker • VS Code • GitHub Copilot
 
-I'm currently reading: Clean Code by Uncle Bob
+  Testing Frameworks / Pytest • JUnit 5 • Jest • React Testing Library • Vitest • Supertest
 
-Contact me at: https://www.linkedin.com/in/david-morohunfola/
+🎯 Currently...
+
+  🌱 Learning: Nest.js
+
+  📖 Reading: Clean Code by Robert C. Martin (Uncle Bob)
+
+🔗 Let's Connect!
+
+  LinkedIn: linkedin.com/in/david-morohunfola
+
+  Email: davidmoroh@icloud.com
