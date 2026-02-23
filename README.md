@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 -----------------------------------
 🎯 **Currently...**
 
-  🌱 Learning: Nest.js
+  🌱 Learning: Kubernetes
 
   📖 Reading: Clean Code by Robert C. Martin (Uncle Bob)
   
